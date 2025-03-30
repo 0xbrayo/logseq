@@ -16,7 +16,7 @@ some changes on the right sidebar, those referenced blocks will be changed too!
 - 3. Do you support tags?
     - Of course, this is a #dummy tag.
 - 4. Do you support tasks like todo/doing/done and priorities?
-    - Yes, type `/` and pick your favorite todo keyword or priority (A/B/C).
+    - Yes, type `/` and pick your favorite todo keyword or priority (A/B/C/D).
     - NOW [#A] A dummy tutorial on "How to take dummy notes?"
     - LATER [#A] Check out this awesome video by [:a {:href "https://twitter.com/shuomi3" :target "_blank"} "@shuomi3"] on how to use Logseq to take notes and organize your life!
     {{youtube https://www.youtube.com/watch?v=BhHfF0P9A80&ab_channel=ShuOmi}}

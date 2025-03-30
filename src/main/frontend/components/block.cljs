@@ -1887,7 +1887,7 @@
 (rum/defc set-priority
   [block priority]
   [:div
-   (let [priorities (sort (remove #(= priority %) ["A" "B" "C"]))]
+   (let [priorities (sort (remove #(= priority %) ["A" "B" "C" "D"]))]
      (for [p priorities]
        [:a.mr-2.text-base.tooltip-priority {:key (str (random-uuid))
                                             :priority p

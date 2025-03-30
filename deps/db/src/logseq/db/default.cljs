@@ -7,7 +7,7 @@
   ["NOW" "LATER" "DOING" "DONE" "CANCELED" "CANCELLED" "IN-PROGRESS" "TODO" "WAIT" "WAITING"])
 
 (defonce built-in-priorities
-  ["A" "B" "C"])
+  ["A" "B" "C", "D"])
 
 (defonce built-in-pages-names
   (set/union
